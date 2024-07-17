@@ -1,0 +1,617 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders correctly 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <div
+      style="display: flex; flex-direction: row; gap: 32px; justify-content: center; flex-wrap: wrap;"
+    >
+      <details>
+        <summary>
+          Board v1
+        </summary>
+        <div
+          style="display: flex; align-content: center; justify-content: center; align-items: center; margin: 0px auto; background: orange; width: auto;"
+        >
+          <div
+            class="sc-aYaIB ftDnVu"
+          >
+            <div
+              class="sc-fqkwJk gabvji"
+            >
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                A
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                B
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                C
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                D
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                E
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                F
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                G
+              </div>
+              <div
+                class="sc-dcJtft ciJpPp"
+              >
+                H
+              </div>
+            </div>
+            <div
+              style="display: flex; flex-direction: column;"
+            >
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                8
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                7
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                6
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                5
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                4
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                3
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                2
+              </div>
+              <div
+                class="sc-eqUzNf jKYEVq"
+              >
+                1
+              </div>
+            </div>
+            <div
+              class="sc-iGgVNO fMAPrq"
+            >
+              <div
+                class="sc-gsFSjX eOBvup"
+              >
+                <div
+                  class="sc-kAycRU fBVwSz"
+                >
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="sc-dhKdPU jZTktB"
+                  >
+                    <div
+                      class="sc-kpDprT bVUMVx"
+                    >
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                      <div
+                        class="sc-jXbVAB dcQoiq"
+                      />
+                      <div
+                        class="sc-imWZod ATHNR"
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </details>
+      <details>
+        <summary>
+          Board v2
+        </summary>
+        <div
+          class="chessboard"
+          style="display: flex; width: 400px; border: 1px solid orange;"
+        >
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+          </div>
+          <div
+            style="display: flex; flex-direction: column;"
+          >
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: black; width: 50px; height: 50px;"
+            />
+            <div
+              style="background: white; width: 50px; height: 50px;"
+            />
+          </div>
+        </div>
+      </details>
+    </div>
+  </div>
+</div>
+`;
